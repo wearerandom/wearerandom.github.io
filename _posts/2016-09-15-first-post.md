@@ -12,6 +12,3 @@ And:
 - Is
 - A
 - List
-
-
-#And this is a title.
