@@ -1,2 +1,2 @@
 # gitpage
-GitHub page repository
+GitHub page testing repository
