@@ -6,9 +6,14 @@
     font-family: "Courier New";
 }
 
-head { nav {
-    list-style-type: none;
+nav {
+    ul {
     padding: 0;
     margin: 0;
-} }
+    }
+    li { 
+        list-style-type: none;
+    }
+    
+}
 
