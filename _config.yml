@@ -1,0 +1,8 @@
+timezone: Europe/Madrid
+
+name: We Are Random [WAR]
+description: This is a Jeckyll testing page
+
+exclude:
+  - README.md
+  - .gitignore
