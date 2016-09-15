@@ -5,8 +5,11 @@
     background-color: black;
     font-family: "Courier New";
 }
-#nav.ul {
-    padding: 0;
-    margin: 0;
+#nav {
+
     list-style-type: none;
+    .li {
+      padding: 0;
+      margin: 0;
+    }
 }
