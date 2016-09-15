@@ -1,7 +1,12 @@
+markdown: kramdown
+highlighter: rouge
+
 timezone: Europe/Madrid
 
 name: We Are Random [WAR]
 description: This is a Jeckyll testing page
+
+url: https://wearerandom.github.io/gitpage/
 
 exclude:
   - README.md
