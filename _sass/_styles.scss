@@ -7,6 +7,11 @@
 }
 
 body.wrap{
+    ul {
+        li {
+            list-style-type: none;
+        }
+    }
     .nav {
         ul {
             li {
