@@ -20,4 +20,15 @@ body.wrap{
             }
         }
     }
+
+    .footer {
+        ul {
+            li {
+                list-style-type: none;
+                display: inline;
+                text-align: right;
+                font-size: 8px;
+                }
+        }
+    }
 }
