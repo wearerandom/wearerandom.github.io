@@ -6,12 +6,6 @@
     font-family: "Courier New";
 }
 
-header {
-    h1 {
-        text-align: center;
-    }
-}
-
 body.wrap{
     .nav {
         ul {
@@ -22,6 +16,10 @@ body.wrap{
                 margin: 0;
             }
         }
+    }
+
+    h1 {
+        text-align: center;
     }
 
     .footer {
