@@ -14,9 +14,8 @@ body.wrap{
     }
     .nav {
         text-align: center;
-        border-top-style: dashed;
-        border-bottom-style: dashed;
-        border-size: 1px;
+        border-top-style: 1px dashed;
+        border-bottom-style: 1px dashed;
         ul {
             li {
                 list-style-type: none;
