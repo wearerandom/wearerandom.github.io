@@ -3,11 +3,11 @@
 * {
     color: #dddddd;
     background-color: black;
-    font-family: "monospace";
-    font-size: 12px;
 }
 
 body.wrap{
+    font-size: 12px;
+    font-family: monospace;
     ul {
         li {
             list-style-type: none;
@@ -64,5 +64,3 @@ body.wrap{
         }
     }
 }
-
-
