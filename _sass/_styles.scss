@@ -14,10 +14,10 @@ body.wrap{
     }
     .nav {
         text-align: center;
-        border-style-top: dashed;
-        border-style-bottom: dashed;
-        border-style-right: hidden;
-        border-style-left: hidden;
+        border-top: dashed;
+        border-bottom: dashed;
+        border-right: hidden;
+        border-left: hidden;
         border-width: 1px;
         ul {
             li {
