@@ -3,7 +3,8 @@
 * {
     color: #dddddd;
     background-color: black;
-    font-family: "Courier New";
+    font-family: monospace;
+    font-size: 12px;
 }
 
 body.wrap{
@@ -13,6 +14,10 @@ body.wrap{
         }
     }
     .nav {
+        padding-right:15px;
+        padding-left:15px;
+        margin-right:auto;
+        margin-left:auto
         text-align: center;
         border-top: 1px dashed;
         border-bottom: 1px dashed;
