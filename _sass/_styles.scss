@@ -14,6 +14,9 @@ body.wrap{
     }
     .nav {
         text-align: center;
+        position: absolute;
+        left: 0;
+        top: 50%;
         width: 800px;
         border-top: dashed;
         border-bottom: dashed;
