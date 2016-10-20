@@ -13,7 +13,10 @@ body.wrap{
         }
     }
     .nav {
-        width: 800px;
+        position: abosule;
+        left: 0;
+        top: 50%;
+        width: 100%;
         text-align: center;
         border-top: dashed;
         border-bottom: dashed;
