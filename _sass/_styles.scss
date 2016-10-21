@@ -4,7 +4,6 @@
 }
 
 body.wrap{
-    border: 1px dashed;
     color: #dddddd;
     background-color: black;
     width: 768px;
@@ -16,6 +15,7 @@ body.wrap{
     font-family: monospace;
     .postcont{
         background-color: #101010;
+        border: 1px dashed;
         color: #909090;
     }
     ul {
