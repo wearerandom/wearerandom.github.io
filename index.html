@@ -7,7 +7,7 @@ overview: true
 <ul>
   {% for post in site.posts %}
     <li>
-      {{ post.date | date: "%D" }} :: <a href=".{{ post.url }}">{{ post.title }}</a> [{{ post.categories | sort | join "\," }}]
+      {{ post.date | date: "%D" }} :: <a href=".{{ post.url }}">{{ post.title }}</a> [{{ post.categories | sort | join " , " }}]
     </li>
   {% endfor %}
 </ul>
