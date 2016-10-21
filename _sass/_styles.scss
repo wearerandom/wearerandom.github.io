@@ -2,15 +2,15 @@
 
 * {
     color: #dddddd;
+    background-color: black;
+}
+
+body.wrap{
     width: 768px;
     padding-right:15px;
     padding-left:15px;
     margin-right:auto;
     margin-left:auto;
-    background-color: black;
-}
-
-body.wrap{
     font-size: 12px;
     font-family: monospace;
     ul {
