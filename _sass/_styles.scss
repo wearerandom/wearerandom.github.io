@@ -13,6 +13,10 @@ body.wrap{
     margin-left:auto;
     font-size: 12px;
     font-family: monospace;
+    .postcon{
+        background-color: #101010;
+        color: #909090;
+    }
     ul {
         li {
             list-style-type: none;
