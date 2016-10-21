@@ -8,8 +8,8 @@ overview: true
   {% for post in site.posts %}
     <li>
       {{ post.date | date: "%D" }} :: <a href=".{{ post.url }}">{{ post.title }}</a> @@ [{% for category in post.tags %}{{ category }}{% if forloop.last != true %},{% endif %} {% endfor %}]
-      {{ post.excerpt }}
     </li>
+    {{ post.excerpt }}
   {% endfor %}
 </ul>
 </div>
