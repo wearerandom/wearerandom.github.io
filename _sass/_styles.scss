@@ -51,10 +51,8 @@ body.wrap{
                     color: #dcdc00;
                 }
                 a:hover {
-                    padding: 2px;
-                    border-left: 1px dashed;
-                    border-right: 1px dashed;
-                    color: #e1e100;
+                    border-bottom: 1px dashed;
+                    color: #f1f100;
                 }
                     
             }
@@ -63,6 +61,7 @@ body.wrap{
 
     h1 {
         text-align: center;
+        color: #f1f100;
     }
 
     .footer {
