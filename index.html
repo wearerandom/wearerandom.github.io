@@ -7,7 +7,7 @@ overview: true
 <ul>
   {% for post in site.posts %}
     <li>
-      {{ post.date | date: "%D" }} :: <a href=".{{ post.url }}">{{ post.title }}</a> @@ [{% for category in {{ sort(post.categories) }} %}{{ category }}{% if forloop.last != true %},{% endif %} {% endfor %}]
+      {{ post.date | date: "%D" }} :: <a href=".{{ post.url }}">{{ post.title }}</a> @@ [{% for category in {{ post.categories | sort }} %}{{ category }}{% if forloop.last != true %},{% endif %} {% endfor %}]
     </li>
   {% endfor %}
 </ul>
