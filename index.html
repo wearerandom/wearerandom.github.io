@@ -7,7 +7,7 @@ overview: true
 <ul>
   {% for post in site.posts %}
     <li>
-      {{ post.date | date: "%D" }} <a href=".{{ post.url }}">{{ post.title }}</a>
+      {{ post.date | date: "%D" }} :: <a href=".{{ post.url }}">{{ post.title }}</a>
       {{ post.excerpt }}
     </li>
   {% endfor %}
