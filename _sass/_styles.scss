@@ -1,6 +1,10 @@
 /* Base */
 
 * {
+    padding-right:15px;
+    padding-left:15px;
+    margin-right:auto;
+    margin-left:auto;
     color: #dddddd;
     width: 800px;
     position: absolute center;
@@ -16,10 +20,6 @@ body.wrap{
         }
     }
     .nav {
-        padding-right:15px;
-        padding-left:15px;
-        margin-right:auto;
-        margin-left:auto;
         text-align: center;
         border-top: 1px dashed;
         border-bottom: 1px dashed;
