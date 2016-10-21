@@ -13,7 +13,7 @@ body.wrap{
     margin-left:auto;
     font-size: 12px;
     font-family: monospace;
-    .postcont{
+    .postcont {
         background-color: #101010;
         border: 1px dashed;
         padding-left: 8px;
@@ -24,6 +24,13 @@ body.wrap{
         li {
             list-style-type: none;
         }
+    }
+    a {
+        text-decoration: none;
+        color: #dcdc00;
+    }
+    a:hover {
+        color: #e1e100;
     }
     .nav {
         text-align: center;
@@ -47,7 +54,7 @@ body.wrap{
                     padding: 2px;
                     border-left: 1px dashed;
                     border-right: 1px dashed;
-                    color: #dede00;
+                    color: #e1e100;
                 }
                     
             }
