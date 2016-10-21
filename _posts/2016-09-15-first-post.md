@@ -2,7 +2,7 @@
 layout: default
 title: "First post (Just a test)"
 author: random
-categories: [posts]
+categories: [posts, first, first post, testing, jekyll]
 ---
 This is the post text.
 
