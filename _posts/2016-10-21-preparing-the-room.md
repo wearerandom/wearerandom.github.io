@@ -9,4 +9,4 @@ This post becomes the first "real" post.
 
 At this moment the Jekyll platform is being configured and maked up to welcome the guests. It's just some CSS and some loops to make jekyll index everything automatically.
 
-The source code of this site can be found at https://github.com/wearerandom/gitpage.
+The source code of this site can be found <a href="https://github.com/wearerandom/gitpage">here</a>.
