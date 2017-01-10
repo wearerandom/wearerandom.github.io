@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "First post (Just a test)"
 author: random
 categories: [posts]
