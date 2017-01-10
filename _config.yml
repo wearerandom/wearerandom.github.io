@@ -6,7 +6,7 @@ timezone: Europe/Madrid
 name: We Are Random [WAR]
 description: This is a Jeckyll testing page
 
-url: https://wearerandom.github.io/gitpage/
+url: https://wearerandom.github.io
 
 exclude:
   - README.md
