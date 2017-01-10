@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Preparing the room"
 author: random
 categories: [posts]
