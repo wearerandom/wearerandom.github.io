@@ -6,6 +6,7 @@
     <div class="postcont">
       {{ content }}
     </div>
+    {% assign taglist = post.tags | sort %}
     {% include bottom.html %}
 </body>
 </html>
