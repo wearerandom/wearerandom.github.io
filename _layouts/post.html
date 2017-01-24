@@ -6,7 +6,7 @@
     <div class="postcont">
       {{ content }}
     </div>
- {% assign taglist = post.tags | sort %}
+ {% assign taglist = page.tags | sort %}
 [{% for category in taglist %}{{ category }}{% if forloop.last != true %},{% endif %} {% endfor %}]
       {% include bottom.html %}
 </body>
