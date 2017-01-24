@@ -7,7 +7,7 @@
       {{ content }}
     </div>
  {% assign taglist = page.tags | sort %}
-[{% for category in taglist %}{{ category }}{% if forloop.last != true %},{% endif %} {% endfor %}]
+Tags: [{% for category in taglist %}{{ category }}{% if forloop.last != true %},{% endif %} {% endfor %}]
       {% include bottom.html %}
 </body>
 </html>
