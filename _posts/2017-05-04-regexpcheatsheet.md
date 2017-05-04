@@ -5,8 +5,8 @@ author: random
 categories: [posts]
 tags: [regexp, cheatsheet, regular, expressions, handy]
 ---
-<h2>Get IPv4 addresses</h2>
+<h3>Get IPv4 addresses</h3>
 
-^[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}$
+<b>^[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}$</b>
 
-<a href="https://www.regexmagic.com/manual/xmppatternipv4.html">credits</a>
+<a href="https://www.regexmagic.com/manual/xmppatternipv4.html">source</a>
