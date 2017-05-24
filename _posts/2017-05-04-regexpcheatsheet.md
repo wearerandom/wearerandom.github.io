@@ -7,6 +7,5 @@ tags: [regexp, cheatsheet, regular, expressions, handy]
 ---
 <h3>Get IPv4 addresses</h3>
 
-<b>(25[0-5]|2[0-4][0-9]|1?[0-9][0-9]{1,2})(\.(25[0-5]|2[0-4][0-9]|1?[0-9]{1,2})){3}</b>
+<b>[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}</b>
 
-<a href="https://gist.github.com/pyrocat101/7568655">source</a>
