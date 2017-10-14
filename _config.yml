@@ -4,7 +4,7 @@ highlighter: rouge
 timezone: Europe/Madrid
 
 name: We Are Random [WAR]
-description: This is a Jeckyll testing page
+description: This is a Jekyll testing page
 
 url: https://wearerandom.github.io
 
