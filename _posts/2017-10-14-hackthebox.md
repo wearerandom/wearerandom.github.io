@@ -7,9 +7,12 @@ tags: [HackTheBox, training, challenges, virtual machines, hacking, playground, 
 ---
 <a target="_blank" href="https://cnhv.co/5odd">HackTheBox.eu</a> is a VPN running vulnerable Virtual Machines for playing with your hacking skills.
 
+<a target="_blank" href="https://cnhv.co/5odd">![Banner](/images/hackthebox_panoramiczny.png){: .center }</a> 
+
 The way to register in is <b>hacking the <a target="_blank" href="https://cnhv.co/5odp">invite service</a> to get your own code</b>. There's no other way to get in.
 
-<b>WE'RE NOT HELPING ANYONE TO GET AN INVITE CODE.</b>
+<b>WE'RE NOT HELPING ANYONE TO GET AN INVITE CODE.</b> 
+{:style="text-align: center;"}
 
 Once you're registered, you can download the <i>.ovpn</i> file to connect via <a target="_blank" href="https://cnhv.co/5ods">OpenVPN</a>. When connected you'll be able to connect to subnet <i>10.10.10.0</i> where the vulnerable machines are running.
 

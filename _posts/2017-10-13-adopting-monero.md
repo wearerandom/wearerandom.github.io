@@ -7,7 +7,7 @@ tags: [contributions, monero, mining, cryptocurrency]
 ---
 <p>Now you can contribute with us without losing a penny!
 
-<p><a href="https://coinhive.com/">Coinhive</a> brings us an easy way to mine <a href="http://monero.org/">Monero</a> cryptocurrency via a Javascript incrusted in a webpage.
+<p><a href="https://cnhv.co/5tsb">Coinhive</a> brings us an easy way to mine <a href="https://cnhv.co/5ts1">Monero</a> cryptocurrency via a Javascript incrusted in a webpage.
 
 <p>This allows us to earn some money from our visitors without adding any kind of ad. We're against SPAM.
 

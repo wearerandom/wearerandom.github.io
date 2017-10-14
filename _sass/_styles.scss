@@ -10,6 +10,11 @@ body.wrap{
     margin-left:auto;
     font-size: 12px;
     font-family: monospace;
+    img.center {
+        display:block;
+        margin-left: auto;
+        margin-right: auto;
+    }
     .postcont {
         background-color: #101010;
         border: 1px dashed;
