@@ -14,7 +14,11 @@ And:
 - A
 - List
 
+{% highlight bash %}
+#!/bin/sh
+echo "Hello world!";
 `
   This should be code
         or something.
 `
+{% endhighlight %}
