@@ -15,5 +15,5 @@ tags: [wifi, pineapple, raspberry, rpi, hacking, tools, mitm]
 
 <p>Once logged in we can install modules from its tab. Modules list and their installation were scripted to be as transparent as possible, checking for updated versions on their repositories.</p>
 
-<p>A RPi3 has built-in WiFi capabilities, so it's enough to lift up an open AP routing it through Bettercap. <a target="_blank" href="https://cnhv.co/696b">Bettercap</a> will intercept the POST queries and will perform the <a target="_blank" href="https://github.com/moxie0/sslstrip">sslstrip</a> downgrade when avaiable.</p>
+<p>A RPi3 has built-in WiFi capabilities, so it's enough to lift up an open AP routing it through <a target="_blank" href="https://cnhv.co/696b">Bettercap</a>. Bettercap will intercept the POST queries and will perform the <a target="_blank" href="https://github.com/moxie0/sslstrip">sslstrip</a> downgrade when avaiable.</p>
 
