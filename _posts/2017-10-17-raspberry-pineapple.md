@@ -11,7 +11,7 @@ tags: [wifi, pineapple, raspberry, rpi, hacking, tools, mitm]
 
 <p>FruityWifi can be installed in any <a target="_blank" href="https://cnhv.co/694o">Debian</a> based system and there's an ARM version for <a target="_blank" href="https://cnhv.co/695r">Raspbian</a>, <a target="_blank" href="https://cnhv.co/695p">Pwnpi</a> or <a target="_blank" href="https://cnhv.co/695c">Kali ARM</a>.</p>
 
-<p>To install, we just need to download the <a target="_blank" href="https://cnhv.co/695x">zip</a> from <a target="_blank" href="https://cnhv.co/6962">the repo</a>, unzip and run install-FruityWifi.sh. The installation script will install all the dependencies and setups. When done, we can launch a navigator pointing to <a target="_blank" href="https://localhost:8443">https://localhost:8443</a> and login as <b>admin:admin</b>. There's an HTTP version at port 8000 but we prefer to discard this option due security reasons.</p>
+<p>To install, we just need to download <a target="_blank" href="https://cnhv.co/695x">the zip</a> from <a target="_blank" href="https://cnhv.co/6962">the repo</a>, unzip and run install-FruityWifi.sh. The installation script will install all the dependencies and setups. When done, we can launch a navigator pointing to <a target="_blank" href="https://localhost:8443">https://localhost:8443</a> and login as <b>admin:admin</b>. There's an HTTP version at port 8000 but we prefer to discard this option due security reasons.</p>
 
 <p>Once logged in we can install modules from its tab. Modules list and their installation were scripted to be as transparent as possible, checking for updated versions on their repositories.</p>
 
