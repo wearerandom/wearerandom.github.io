@@ -7,7 +7,7 @@ overview: true
     {% for post in site.posts %}
       <li>
         {% assign taglist = post.tags | sort %}
-        {{ post.date | date: "%D" }} :: <a href=".{{ post.url }}">{{ post.title }}</a> @@ [{% for category in taglist %}{{ category }}{% if forloop.last != true %},{% endif %} {% endfor %}]
+        {{ post.date | date: "%d/%m/%Y" }} :: <a href=".{{ post.url }}">{{ post.title }}</a> @@ [{% for category in taglist %}{{ category }}{% if forloop.last != true %},{% endif %} {% endfor %}]
       </li>
     {{ post.excerpt }}
   {% endfor %}
