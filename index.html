@@ -8,8 +8,8 @@ overview: true
       <li>
         {% assign taglist = post.tags | sort %}
         {{ post.date | date: "%d/%m/%Y" }} :: <a href=".{{ post.url }}">{{ post.title }}</a> @@ [{% for category in taglist %}{{ category }}{% if forloop.last != true %},{% endif %} {% endfor %}]
-        {{ post.excerpt }}
       </li>
+    {{ post.excerpt }}
 
   {% endfor %}
   </ul>
